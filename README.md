@@ -16,7 +16,7 @@ puppeteer의 경우 nodejs 라이브러리이므로 node 설치를 통해 실행
 `ts-node cafe.ts 매개변수url`
 
 설치한 라이브러리
-- `@types/puppeteer@5.4.5` -> puppeteer에 typescript 적용을 위해 필요한 라이브러리 (tsconfig.json에서 설정 필요함 레포지토리 tsconfig.json 참고)
+- `@types/puppeteer@5.4.5` -> puppeteer에 typescript 적용을 위해 필요한 라이브러리 (typescript 설정은 tsconfig.json 참고)
 - `puppeteer@13.5.2` -> puppeteer 사용을 위한 라이브러리
 - `ts-node@10.7.0` -> 타입스크립트 컴파일 및 실행에 필요한 라이브러리
 - `typescript@4.6.3` -> 타입스크립트 사용을 위한 라이브러리
